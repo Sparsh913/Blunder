@@ -1,4 +1,4 @@
-# Blunder: An Interactive Mesh Editor
+# Blunder: A Play Tool for Mesh Editing
 
 
 ## Introduction
